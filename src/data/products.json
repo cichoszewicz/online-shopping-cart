@@ -1,0 +1,102 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "I am Broot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 2,
+            "name": "I am Croot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 3,
+            "name": "I am Droot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 4,
+            "name": "I am Froot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 5,
+            "name": "I am Groot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 6,
+            "name": "I am Hroot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        },
+        {
+            "id": 7,
+            "name": "I am Mroot",
+            "description": "This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product. This is some description of the product." ,
+            "keywords": [
+                "stuffed", "plush", "groot"
+            ],
+            "image" : "1-groot.jpg",
+            "age": [
+                "0", "+"
+            ],
+            "price": 19.99
+
+        }
+    ]
+}
